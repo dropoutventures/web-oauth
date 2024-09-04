@@ -1,15 +1,6 @@
 web-oauth
 ===========
-A simple oauth API for ~~node.js~~ the web, something we can use on serverless platforms.  This API allows users to authenticate against OAUTH providers, and thus act as OAuth consumers.
-
-Tested against Twitter (http://twitter.com), term.ie (http://term.ie/oauth/example/), TwitPic, and Yahoo!
-
-Also provides rudimentary OAuth2 support, tested against facebook, github, foursquare, google and Janrain.   For more complete usage examples please take a look at connect-auth (http://github.com/ciaranj/connect-auth)
-
-[![Clone in Koding](http://learn.koding.com/btn/clone_d.png)][koding]
-[koding]: https://koding.com/Teamwork?import=https://github.com/ciaranj/node-oauth/archive/master.zip&c=git1
-[![Pair on Thinkful](https://tf-assets-staging.s3.amazonaws.com/badges/thinkful_repo_badge.svg)][Thinkful]
-[Thinkful]: http://start.thinkful.com/node/?utm_source=github&utm_medium=badge&utm_campaign=node-oauth
+A simple oauth API for ~~node.js~~ the web, something we can use on serverless platforms. This API allows users to authenticate against OAUTH providers, and thus act as OAuth consumers.
 
 Installation
 ============== 
